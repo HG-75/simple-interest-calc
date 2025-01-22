@@ -11,7 +11,7 @@ Follow these steps to set up the project:
    git clone https://github.com/HG-75/final-project.git
 
 2. Navigate to the project directory:
-cd final-project
+cd simple-interest-calc
 
 3. Usage
 -> The project includes a simple-interest.sh script to calculate simple interest. Detailed instructions on running the script will be provided after it is added.
