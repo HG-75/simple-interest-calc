@@ -18,9 +18,9 @@ cd final-project
 -> Additional files such as LICENSE, CONTRIBUTING.md, and CODE_OF_CONDUCT.md are included for reference.
 
 4. Contributing
- We welcome contributions to this project! Please read the CONTRIBUTING.md file for detailed contribution guidelines.
+-> We welcome contributions to this project! Please read the CONTRIBUTING.md file for detailed contribution guidelines.
 
 5. License
-This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
+-> This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
 
 
